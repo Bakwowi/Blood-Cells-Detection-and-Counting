@@ -3,6 +3,13 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+
+.vscode/
+d2l-en/
+data/
+practice/
+pytorch-deep-learning/
+yolo26s.pt
 # C extensions
 *.so
 
