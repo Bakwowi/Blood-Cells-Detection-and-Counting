@@ -5,6 +5,6 @@ val: images/val
 test: images/test
 
 names:
-  0: RBC
-  1: WBC
+  0: WBC
+  1: RBC
   2: Platelet
